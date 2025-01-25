@@ -1,4 +1,4 @@
-## Tic-Tac-To
+## Tic-Tac-Toe
 A simple and interactive Tic-Tac-Toe game built using **HTML**, **CSS**, and **JavaScript**. This project is perfect for beginners learning web development and aims to showcase fundamental web development skills.
 
 ---
