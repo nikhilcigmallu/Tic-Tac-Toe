@@ -49,9 +49,3 @@ To run this project, you need:
 
 - A web browser (e.g., Chrome, Firefox, or Edge).
 - Basic knowledge of HTML, CSS, and JavaScript (helpful for understanding the code).
-
-### Installation
-
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
