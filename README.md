@@ -52,13 +52,13 @@ This project is version controlled using Git. The repository is hosted on GitHub
 ## Contributing
 This project is for demonstration purposes, and contributions are accepted. 
 
-1.Fork the repository.
+1. Fork the repository.
 
-2.Create a new branch for your feature or fix.
+2. Create a new branch for your feature or fix.
 
-3.Commit your changes with a clear message.
+3. Commit your changes with a clear message.
 
-4.Submit a pull request for review.
+4. Submit a pull request for review.
 
 
 ## Credits
