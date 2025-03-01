@@ -83,4 +83,4 @@ if __name__ == "__main__":
                 print("Thanks for playing! Goodbye.")
                 break
 
-        turn = 1 - turn
+        turn = 1 -  turn
