@@ -44,5 +44,24 @@ X | 1 | 2
 X won the match!
 Game Over!
 Do you want to play again? (y/n):
+```
+
+## Version Control
+This project is version controlled using Git. The repository is hosted on GitHub, allowing for easy collaboration and version tracking.
+
+## Contributing
+This project is for demonstration purposes, and contributions are accepted. 
+
+1.Fork the repository.
+
+2.Create a new branch for your feature or fix.
+
+3.Commit your changes with a clear message.
+
+4.Submit a pull request for review.
+
+
+## Credits
+Project inspired by Tic-Tac-Toe Game and developed by [Nikhil Cigmallu](https://github.com/nikhilcigmallu).
 
 
