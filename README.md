@@ -37,9 +37,9 @@ X's Turn
 Please enter a value (0-8): 0
 X | 1 | 2
 --|---|--
-3 | 4 | 5
+3 | X | 5
 --|---|--
-6 | 7 | 8
+6 | 7 | X
 ...
 X won the match!
 Game Over!
